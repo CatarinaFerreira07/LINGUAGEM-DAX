@@ -1,7 +1,7 @@
 # LINGUAGEM-DAX
 TIPOS DE CÁLCULOS NO DAX
 NOVA MEDIDA:Cria medidas para serem inseridas em gráficos
-São calaculadas somente no visual
+São calculadas somente no visual
 
 MEDIDA RÁPIDA = Utiliza IA
 
